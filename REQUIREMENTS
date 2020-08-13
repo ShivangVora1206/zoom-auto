@@ -1,0 +1,4 @@
+REQUIREMENTS:
+python 3
+pyautogui 
+pyperclip
