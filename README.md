@@ -1,8 +1,4 @@
 # zoom-auto
-REQUIREMENTS:
-python 3
-pyautogui 
-pyperclip
 
 
 This is a bot used to ease some effort in doing mondane tasks like connecting to a zoom meeting.
